@@ -6,7 +6,10 @@ you may need to
 ```
 #include <cstdint>
 ```
-before compilation i.e. before running pip install submodules/diff-gaussian-rasterization
+before compilation i.e. before running
+```
+pip install submodules/diff-gaussian-rasterization
+```
 
 ____ END fork preamble ____
 
