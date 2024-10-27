@@ -1,3 +1,9 @@
+____ BEGIN fork preamble ____
+
+- updating clone link to this fork
+
+____ END fork preamble ____
+
 
 <h2 align="center"> <a href="https://arxiv.org/abs/2403.20309">InstantSplat: Sparse-view SfM-free <a href="https://arxiv.org/abs/2403.20309"> Gaussian Splatting in Seconds </a>
 
@@ -37,7 +43,7 @@ https://github.com/zhiwenfan/zhiwenfan.github.io/assets/34684115/748ae0de-8186-4
 ### Installation
 1. Clone InstantSplat and download pre-trained model.
 ```bash
-git clone --recursive https://github.com/NVlabs/InstantSplat.git
+git clone --recursive git@github.com:Mikey-E/InstantSplat-grocery.git
 cd InstantSplat
 git submodule update --init --recursive
 cd submodules/dust3r/
