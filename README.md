@@ -1,6 +1,12 @@
 ____ BEGIN fork preamble ____
 
 - updating clone link to this fork
+- in InstantSplat-grocery/submodules/diff-gaussian-rasterization/cuda_rasterizer/rasterizer_impl.h
+you may need to
+```
+#include <cstdint>
+```
+before compilation i.e. before running pip install submodules/diff-gaussian-rasterization
 
 ____ END fork preamble ____
 
